@@ -1,1 +1,525 @@
-return(function(...)local i={"Ld^aR2ALFuFI/";"LPjU*H<Ddk+";"LUTU","LI!p;tJLf^","L%+3+0","L;_o_$%XDV";"L%btLe%\\W]sb6";"L;M)jZ0n8!h","LdPcdKbj<","LK_2eY7l)i.";"LK^hD&7+","L%+53>bq","L-9Jkgr4&";"LbT.E","L-)lljJa";"L;UO2$RJaQD<D,7;R%rU","Ld^aR2R<f6,0^5";"LdPc;nPZg@Ebj.3R";"L7+";"LU?A.u","LPjLLGJkE";"LJ,Qs,";"LP\\!","L73RI2YlO^\"aOb.";"L;$\'hu7EJqL<BNj:R<\\J\'%IfM";"LU?F=DPZg@Ebj.3h<DVb","LdPc;nPZg@Ebj.3\\sH&C&cdp):U?F=DRJ6QD%bE=+RJca>R$?3AR$?31","L;=dcl","Ld^aR2RJ6QD%bE=+R$SB8V?VJ<","Ld^aR2RJ6QD%bE=+RL","L<DA.eIQX","L0PC?#<EWk,<D0D<Y>R-[","LJiEHlJ7V";"Ld^aR2","Ld^aR2R<uK&<3#m+R<P-t";"L$WKl!<Dd3RJ@b4(0\"e\\,bVk&_<BNj:RY,@*0(\'T!";"L;52?fJ>\')UJkE","LdPc;n$Ws[F<I";"Ld^aR2;=;H=JAQGp";"LAkDG\"";"LU[Xd)Ji..cJLb7@0Phppr0!tgbl7b;-bD2t%Wo%";"L;52?fJt=6nbm:4*","L7B8.)d^aR27(&J";"Ld^aR2PlD^lYu<";"LPQ\'","L0/a?#I8","LPj7]8R0Y7DI!ps?R07MuRJaIl0^4Um%-%fWbj.N";"L;$\'X*JLb7@0Php5%Yl-?";"Ld->IjI8","LU]hAGJa";"L;1CYG","L-K6b!%+53VJi6Oe";"Ld^aR273RN","LJ@bnpJL0";"Lr01>s","L;$\'X*JLb7@0PhpFbj<";"LbSgX";"L7Ejo=bTO-s;qk<DblK";"LqH*<)bl9\\SJp1A*VBD&QVBDi:S-\"p*I/","L7Ejo=bTO-s;qk<DblTs\"blK";"L;_Ch4Ym`L)0PL3";"L-R@]GJa";"L;^#";"L08ss^","LdPQBYY`t^IJNa&\"0^4Um%<PHH0^5","L7&";"LU]e3fJiq.6Jd4Q";"Ld^aR2R<\\J\'%IfM","LPj7]8R0Y7DI!ps?R0LCnR<\\<:0^6","LU]Ybg;c#-`0l","LKnr*gJmfo";"L7Ejo=bTO-s7(&J","LAk^";"L7(&<7bj\\b","LPQ.","L;$\'hu7EJqL<BNj:","LPlcJ@R$?N=R$[WBsH&C&";"LU[Xd9<(]qV<3#](J@bmpJK";"LU[Xd)Ji..cJLb7@0Phpp<DHCe%.K?dRIfMY0^6","LU]e3QJLb`","Ld^a9qJL[ZO0CgZ_I8";"L0/a;C0-P";"L;$\'X*JLb7@0PhT";"L;$\'hu7EJqL<BNj:R<uK&<3#m+R<P-t";"LPl;:X%Wlo;RIfR>%-2","L<3iqA%:EgsI))TI<t+Zc%hlodJLbU.booas%$^eJbWlh;bVZ9.YrZk_[W^%A%XKa(T3sV_JL^4/TNCAR%OX<$<Dtk]JdLn/%OhZ:r#%<\"bZZp`IFPpu0-b";"L11TZ<J7b<_1D","LdPQBYY`(XM<(]1m0-q.H","LPj7]8R0Y7DI!ps?R0m.BI=jP*bj.N";"LPjhN`";"L-RnP/","L;$\'X.<HR*\"r#r3t;=;\'i<EZ";"Ld^aR2$WN]ibl7bEPrd";"LU[Xd9<(D7V0-3e,Ymm9`Ja";"LPZgl&<EWk,Jk,X4blL7.Ja";"LbVV5","LJd4mDI!Lod<D0E";"LALFuFI/";"L%YJ8CJa";"LK3";"LdPQBYY`(X=JkLn#$Ws[F<I";"L;>";"LKnr*6Jmfo","LcPNT8%-%ZH%\\+1?YI3[9>=@X=be?sAI/","LAA]<8rgQ2E%A";"L7EJqL<BNj:","LU]hAGJLZ";"LJ@+YWI8";"L;M)S-Ja";"L%WoaA<Ddk+";"Lc>","LdPc;n$WN]ibl7b;-bDo";"LdPQBYY`(XnJk665JLb7@0Phpp$Ws[F<I","L;=;\')Ji6LJ-s&%@","L;$\'X*JLb7@0PhpmJk4$Ebj]qu7I";"LdPQBYY`;#S<>Tf&0^5","L;$\'hu7EJqL<BNj:RJ6QD%bE=+RL";"Ld.>u5%bt=[";"L0U%7","LJit8";"L<3iqA%:EgsJAs\\CblLJ00/a>P0P@C;r0!tgbl7I(pV,Ep","LdPc;nPlDr]%&k";"L;_W?rPZgl&<EWk,blN";"LUu?b]blpn","LdPcddJk4$Ebj]qu7I","LR7";"L;=;\')Ji6i";"LqHc!UrLh<UVBD&QVBDi:S-\"p*I/";"L<;T>+";"L;$\'hu7EJqL<BNj:RJ6QD%bE=+R$SB8V?VJ<","LdPcdK0UIj)";"LU[Xd9<(]q[Jk4$EbjmZ^PrA>iJLk","LPlD^lY<";"L7\'/7%%bE=+";"LPl6No<D,p*","LdPcd:bl7a*bmsW","L;O$^FY`GJ";"LdPcd+%Yl-?","L;$\'X.<HR*\"r#r3t";"LY]-/0pI","Lt-l";"LsOf;YscW?8,$N4bR$[WM";"LU[XdlJkLn#r0!tgbl7b;-bD2t%Wo%";"Lt;","LU[XdlJkLn#<Dt*d%bE=+","L[+96G>*h";"LUj_O`";"L73RqfJkE";"L;5o,r0^1";"L%Yl4$";"L7B8.)dPcdRJnR";"LJd7kE","LdPcd:blppc<+","L7EJIGbj*","L-Rp;P<E[$.";"L0/se,Y<","L;_W?r";"L7B8.);$\'X*JLb7@0PhpGJnR";"L<B6Ig<tX5";"LPZg@Ebj.3f<BN9mJLZ","LdPQBYY`;RS0-K%M%Yi_","LAL*8u0P2e_","L";"LdPc;";"LP6","LPZg@Ebj.3f<BN9mJa","L$WKl!<Dd3RJ@b4(Jit86Jd7kmT`i)","LJ@bhK0-P";"LPRn";"LU`$&YJLb7@0PhT";"L7EJqL<BNj:PlD^lY<","L<3iqA%:Egs<t+Zc%hQ_tbl#Vb0PLB_0/.`kpS_23Y]g-K%$mY#bZ,ceJ?h\"@%&L>\"Ji!C9%WobrJAQGpY]-&Hp;Lc#pj=O(%XKa(T@t=$%L","LPZgoL%\\+rS","LqHc!UrLh<UVBD&QVBDi:S-\"[rLAm:gsce";"LUmH\'20UgVH","LsOf;YscW?8scW2","LU[XdlJkLn#Jd7km";"L%Wlo[IRg>*Tk/(p%A";"LJ@XmKUfR>GJLk","Lq=7m]<D>","L;$\'X*JLb7@0Phpibl7a*bmsW","LA7J/HPj76H<EW4","LUZ1";"LY]$uTI8","L%bt]tJa","L$WKl!<Dd3RJ@b4(<(52DRY,@*0(\'T!","L-Kcr\'Ja";"LPS<Q8%0p_)%I[P7";"L-aPH";"LU]<D5%X^";"LAdQ(qJLb`";"L;UO2$R<\\<:0^6"}for j,p in ipairs({{1;192},{1,178},{179;192}})do while p[1]<p[2]do i[p[1]],i[p[2]],p[1],p[2]=i[p[2]],i[p[1]],p[1]+1,p[2]-1 end end local function F(j)return i[j+42859]end do local j=i local p=string.len local w=math.floor local Q={O=12,l=28;Q=61,["1"]=56,U=30,["/"]=25;P=59;b=9;z=18;m=35;p=63;I=16;Z=14;X=41,J=3,K=55;["5"]=32,["0"]=34,k=36;e=23;w=4;W=0,j=39;R=6;D=15;["7"]=10,c=1,o=8;V=60,G=5,u=29;r=44;h=42,g=51;C=38,["9"]=31;d=45;f=11;H=19,Y=50;["2"]=17,a=7,n=48;N=49,s=21;E=62,v=54;i=33;y=13;F=24,["+"]=47,L=37;B=53;["8"]=46;A=52;S=57,M=22,x=20,["3"]=27;["4"]=40,T=2,q=26,["6"]=58;t=43}local q=string.char local S=type local N={r=38;P=26;K=11;t=20;[","]=77;E=74,N=47,["]"]=72,["#"]=4,u=45,p=15,["$"]=28,h=61,l=69;k=49,W=7;q=30,M=55;L=51;["&"]=63;Z=40,["["]=17;U=25,["?"]=16,["\\"]=9,["+"]=8,O=1,_=83,["*"]=5,G=58;s=12,["8"]=54;["@"]=78,R=10,B=46;["\'"]=73,["5"]=56;["\""]=53,["6"]=84;[")"]=64;["."]=0,[";"]=21,c=3,Q=66,I=36;n=52;["1"]=29,["<"]=33,m=70;["4"]=60,["="]=57,["!"]=65;["("]=19,d=22,V=13,j=68,[">"]=18,o=42,H=76;S=41;[":"]=2,A=23,["0"]=31,["-"]=27;f=44;["%"]=37;T=14,C=79,["7"]=24,["`"]=71;J=32;["2"]=43;b=35,i=50,D=75;F=59;["9"]=67;["^"]=80;["3"]=48,Y=34;X=62;e=6;["/"]=81;g=82;a=39}local Y=string.sub local e=table.concat local E=table.insert for h=1,#j,1 do local C=j[h]if S(C)=="string"then local S=Y(C,1,1)if S=="0"then C=Y(C,2)local S=p(C)local N={}local f=1 local W=0 local G=0 while f<=S do local j=Y(C,f,f)local p=Q[j]if p then W=W+p*(64^((3-G)))G=G+1 if G==4 then G=0 local j=w(W/65536)local p=w((W%65536)/256)local Q=W%256 E(N,q(j,p,Q))W=0 end elseif j=="="then E(N,q(w(W/65536)))if f>=S or Y(C,f+1,f+1)~="="then E(N,q(w((W%65536)/256)))end break end f=f+1 end j[h]=e(N)elseif S=="L"then C=Y(C,2)local Q=p(C)local S={}local f=1 while f<=Q do local j=(Q-f)+1 local p=j>=5 and 5 or j local e=0 local h=p>1 for j=0,4,1 do local w if j<p then local p=Y(C,f+j,f+j)w=N[p]if not w then h=false break end else w=84 end e=e*85+w end if h then local j=w(e/16777216)%256 local Q=w(e/65536)%256 local N=w(e/256)%256 local Y=e%256 if p==5 then E(S,q(j,Q,N,Y))elseif p==4 then E(S,q(j,Q,N))elseif p==3 then E(S,q(j,Q))elseif p==2 then E(S,q(j))end end f=f+p end j[h]=e(S)end end end end local j=(loadstring(game:HttpGet(F(-42701))))()local p=(loadstring(game:HttpGet(F(-42787))))()local w=game:GetService(F(-42778))local Q=game:GetService(F(-42691))local q=game[F(-42793)][F(-42849)]local S={[F(-42716)]={[F(-42680)]={};[F(-42735)]={},[F(-42825)]={}};[F(-42764)]={[F(-42830)]=F(-42710);[F(-42722)]=F(-42710),[F(-42715)]=F(-42710);[F(-42834)]=0;[F(-42737)]=0,[F(-42692)]=0}}local function N()local j,p=pcall(function()return require(((w:WaitForChild(F(-42852),5)):WaitForChild(F(-42700),5)):WaitForChild(F(-42839),5))end)if j and(type(p)==F(-42774)and type(p[2])==F(-42774))then for j,p in pairs(p[2])do S[F(-42716)][F(-42680)][j]={[F(-42845)]=p[F(-42845)],[F(-42739)]=p[F(-42739)];[F(-42812)]=p[F(-42812)],[F(-42724)]=p[F(-42724)]}end end end local function Y()local j,p=pcall(function()return require((w:WaitForChild(F(-42852),5)):WaitForChild(F(-42720),5))end)if j and(type(p)==F(-42774)and p[F(-42766)])then for j,w in pairs(p[F(-42766)])do S[F(-42716)][F(-42735)][j]={[F(-42823)]=tonumber(w)or 0;[F(-42707)]=p[F(-42713)]and p[F(-42713)][j]or 0}end end end local function e()local j,p=pcall(function()return require((w:WaitForChild(F(-42852),5)):WaitForChild(F(-42781),5))end)if j and(type(p)==F(-42774)and(p[F(-42767)]and p[F(-42767)][F(-42775)]))then for j,p in ipairs(p[F(-42767)][F(-42775)])do S[F(-42716)][F(-42825)][p[F(-42800)]]={[F(-42812)]=p[F(-42812)]or p[F(-42800)];[F(-42768)]=p[F(-42768)]or 0,[F(-42740)]=p[F(-42740)]or 0}end end end local E={F(-42710),F(-42854),F(-42807),F(-42771);F(-42708);F(-42850),F(-42704);F(-42828);F(-42798),F(-42690),F(-42678);F(-42810)}local function h(j)if not j or j==0 then return F(-42729)end local p=math[F(-42765)](math[F(-42733)](math[F(-42754)](j))/3)if p<1 then return F(-42773)..tostring(math[F(-42765)](j))end local w=E[math[F(-42667)](p+1,#E)]or F(-42732)local Q=10^((p*3))local q=j/Q local S=(q==math[F(-42765)](q))and F(-42802)or F(-42770)return string[F(-42705)](S,q,w)end local C=tonumber(F(-42727),16)local function f(j)return{{[F(-42827)]=j[F(-42827)]or C;[F(-42688)]=j[F(-42688)];[F(-42776)]=j[F(-42776)];[F(-42819)]={[F(-42723)]=F(-42857)..os[F(-42721)](F(-42671))};[F(-42674)]=(DateTime[F(-42816)]()):ToIsoDate()}}end local function W(j,p)if not j or j==F(-42710)then return false end local w=Q:JSONEncode({[F(-42840)]=p})local q={[F(-42759)]=F(-42841)}local S=(syn and syn[F(-42677)])or http_request or request if S then local p=pcall(S,{[F(-42684)]=j,[F(-42719)]=F(-42726),[F(-42682)]=q,[F(-42822)]=w})if p then return true end end local N=pcall(Q[F(-42803)],Q,j,w,F(-42841),false)return N end local G=nil pcall(function()local j=require((w:WaitForChild(F(-42698),5)):WaitForChild(F(-42750),5))G=j[F(-42792)]()end)local function z()local j=w:FindFirstChild(F(-42829))and w[F(-42829)]:FindFirstChild(q[F(-42853)])if not j then return{[F(-42688)]=F(-42843),[F(-42827)]=C;[F(-42776)]=F(-42696);[F(-42693)]=F(-42696)}end local p={}local Q={}for w,q in pairs(S[F(-42716)][F(-42680)])do local S=j:FindFirstChild(w)local N=S and S[F(-42858)]or 0 if N>0 then local j=q[F(-42812)]or w local S=h(q[F(-42845)])table[F(-42842)](p,string[F(-42705)](F(-42745),N,j,S))table[F(-42842)](Q,string[F(-42705)](F(-42697),N,j,S))end end table[F(-42676)](p)table[F(-42676)](Q)local N=#p>0 and table[F(-42791)](p,F(-42762))or F(-42728)local Y=#Q>0 and table[F(-42791)](Q,F(-42762))or F(-42728)return{[F(-42688)]=F(-42843);[F(-42827)]=C,[F(-42776)]=N,[F(-42693)]=Y}end local function m()local j=workspace:FindFirstChild(F(-42703))if not j then return{[F(-42688)]=F(-42855);[F(-42827)]=C;[F(-42776)]=F(-42795),[F(-42693)]=F(-42795)}end local p={}local w={}for Q=1,5,1 do local q=j:FindFirstChild(F(-42683)..(Q..F(-42740)))or j:FindFirstChild(F(-42683)..Q)if q then local j=q:FindFirstChild(F(-42742),true)if j and(j[F(-42782)]and j[F(-42782)]~=F(-42710))then local q=j[F(-42782)]local N=q for j in pairs(S[F(-42716)][F(-42735)])do local p=string[F(-42744)](string[F(-42689)](q),F(-42747),F(-42710))local w=string[F(-42744)](string[F(-42689)](j),F(-42747),F(-42710))if string[F(-42851)](p,w,1,true)then N=j break end end local Y=(S[F(-42716)][F(-42735)][N]and S[F(-42716)][F(-42735)][N][F(-42823)])or 0 local e=h(Y)table[F(-42842)](p,string[F(-42705)](F(-42814),Q,N,e))table[F(-42842)](w,string[F(-42705)](F(-42796),Q,N,e))end end end local Q=#p>0 and table[F(-42791)](p,F(-42762))or F(-42779)local q=#w>0 and table[F(-42791)](w,F(-42762))or F(-42779)return{[F(-42688)]=F(-42855);[F(-42827)]=C,[F(-42776)]=Q;[F(-42693)]=q}end local function k()local j=G and G:GetSnapshot()local p=(j and(j[F(-42734)]and j[F(-42734)][F(-42702)]))or{}local w={}local Q={}for j,q in pairs(S[F(-42716)][F(-42825)])do local S=p[j]if S==nil then S=q[F(-42740)]end if S>0 then local p=q[F(-42812)]or j local N=q[F(-42768)]local Y=N>=1000 and string[F(-42705)](F(-42670),N/1000)or tostring(N)table[F(-42842)](w,string[F(-42705)](F(-42699),S,p,Y))table[F(-42842)](Q,string[F(-42705)](F(-42731),S,p,Y))end end table[F(-42676)](w)table[F(-42676)](Q)local q=#w>0 and table[F(-42791)](w,F(-42762))or F(-42794)local N=#Q>0 and table[F(-42791)](Q,F(-42762))or F(-42794)return{[F(-42688)]=F(-42756),[F(-42827)]=C,[F(-42776)]=q;[F(-42693)]=N}end local K=j:Window({[F(-42686)]=F(-42681);[F(-42738)]=F(-42786);[F(-42718)]=140;[F(-42783)]=UDim2[F(-42694)](580,400);[F(-42736)]=false,[F(-42821)]=false,[F(-42811)]=F(-42668),[F(-42801)]=Enum[F(-42799)][F(-42685)];[F(-42815)]=true;[F(-42813)]=F(-42809)})local D={[F(-42839)]=K:Tab({[F(-42686)]=F(-42856),[F(-42833)]=F(-42695)}),[F(-42709)]=K:Tab({[F(-42686)]=F(-42835);[F(-42833)]=F(-42753)}),[F(-42790)]=K:Tab({[F(-42686)]=F(-42797),[F(-42833)]=F(-42714)}),[F(-42679)]=K:Tab({[F(-42686)]=F(-42679),[F(-42833)]=F(-42763)})}local function J(p)local w=z()local Q=j[F(-42749)][F(-42780)][F(-42858)]if Q~=F(-42710)then W(Q,f(w))end if p then j:Notify({[F(-42686)]=F(-42839);[F(-42746)]=F(-42788);[F(-42755)]=5})end end local function O(p)local w=m()local Q=j[F(-42749)][F(-42748)][F(-42858)]if Q~=F(-42710)then W(Q,f(w))end if p then j:Notify({[F(-42686)]=F(-42709),[F(-42746)]=F(-42788),[F(-42755)]=5})end end local function M(p)local w=k()local Q=j[F(-42749)][F(-42758)][F(-42858)]if Q~=F(-42710)then W(Q,f(w))end if p then j:Notify({[F(-42686)]=F(-42797),[F(-42746)]=F(-42788),[F(-42755)]=5})end end D[F(-42839)]:Input(F(-42780),{[F(-42686)]=F(-42838);[F(-42806)]=F(-42752);[F(-42675)]=F(-42710)})D[F(-42839)]:Toggle(F(-42712),{[F(-42686)]=F(-42772),[F(-42675)]=true})D[F(-42839)]:Button({[F(-42686)]=F(-42784);[F(-42673)]=function()if j[F(-42749)][F(-42780)][F(-42858)]==F(-42710)then j:Notify({[F(-42686)]=F(-42824),[F(-42746)]=F(-42730),[F(-42755)]=5})return end J(true)end})D[F(-42839)]:Paragraph(F(-42820),{[F(-42686)]=F(-42805),[F(-42746)]=F(-42687)})D[F(-42709)]:Input(F(-42748),{[F(-42686)]=F(-42761),[F(-42806)]=F(-42752),[F(-42675)]=F(-42710)})D[F(-42709)]:Toggle(F(-42757),{[F(-42686)]=F(-42785);[F(-42675)]=true})D[F(-42709)]:Button({[F(-42686)]=F(-42804),[F(-42673)]=function()if j[F(-42749)][F(-42748)][F(-42858)]==F(-42710)then j:Notify({[F(-42686)]=F(-42824);[F(-42746)]=F(-42741);[F(-42755)]=5})return end O(true)end})D[F(-42709)]:Paragraph(F(-42672),{[F(-42686)]=F(-42751),[F(-42746)]=F(-42706)})D[F(-42790)]:Input(F(-42758),{[F(-42686)]=F(-42789);[F(-42806)]=F(-42752),[F(-42675)]=F(-42710)})D[F(-42790)]:Toggle(F(-42808),{[F(-42686)]=F(-42760),[F(-42675)]=true})D[F(-42790)]:Button({[F(-42686)]=F(-42826);[F(-42673)]=function()if j[F(-42749)][F(-42758)][F(-42858)]==F(-42710)then j:Notify({[F(-42686)]=F(-42824);[F(-42746)]=F(-42832),[F(-42755)]=5})return end M(true)end})D[F(-42790)]:Paragraph(F(-42817),{[F(-42686)]=F(-42848);[F(-42746)]=F(-42837)})p:SetLibrary(j)p:BuildConfigSection(D[F(-42679)])local function l(p)local Q=string[F(-42705)](F(-42844),os[F(-42721)](F(-42671)),p[F(-42693)])local S=w:FindFirstChild(F(-42829))and(w[F(-42829)]:FindFirstChild(q[F(-42853)])and w[F(-42829)][q[F(-42853)]]:FindFirstChild(F(-42847)))if S and S[F(-42858)]>0 then local j=math[F(-42777)](0,S[F(-42858)]-workspace:GetServerTimeNow())local p=math[F(-42765)](j/60)local w=math[F(-42765)](j%60)Q=Q..string[F(-42705)](F(-42769),p,w)end j[F(-42749)][F(-42820)]:SetValue(Q)end local function x(p)local w=workspace:GetServerTimeNow()local Q=math[F(-42777)](0,((w-w%300)+300)-w)local q=math[F(-42765)](Q/60)local S=math[F(-42765)](Q%60)local N=string[F(-42705)](F(-42846),os[F(-42721)](F(-42671)),p[F(-42693)],q,S)j[F(-42749)][F(-42672)]:SetValue(N)end local function H(p)local w=string[F(-42705)](F(-42743),os[F(-42721)](F(-42671)),p[F(-42693)])if next(S[F(-42716)][F(-42825)])~=nil then local j=workspace:GetServerTimeNow()local p=math[F(-42777)](0,((j-j%3600)+3600)-j)local Q=math[F(-42765)](p/60)local q=math[F(-42765)](p%60)w=w..string[F(-42705)](F(-42769),Q,q)end j[F(-42749)][F(-42817)]:SetValue(w)end local function d(j)return j[F(-42693)]end local function Z()if not j[F(-42749)][F(-42712)][F(-42858)]then return end if next(S[F(-42716)][F(-42680)])==nil then return end local p=os[F(-42717)]()if p-S[F(-42764)][F(-42834)]<3 then return end S[F(-42764)][F(-42834)]=p local w=z()local Q=d(w)if Q==S[F(-42764)][F(-42830)]then return end S[F(-42764)][F(-42830)]=Q J(false)l(w)end local function V()if not j[F(-42749)][F(-42757)][F(-42858)]then return end if next(S[F(-42716)][F(-42735)])==nil then return end local p=os[F(-42717)]()if p-S[F(-42764)][F(-42737)]<3 then return end S[F(-42764)][F(-42737)]=p local w=m()local Q=d(w)if Q==S[F(-42764)][F(-42722)]then return end S[F(-42764)][F(-42722)]=Q O(false)x(w)end local function u()if not j[F(-42749)][F(-42808)][F(-42858)]then return end if next(S[F(-42716)][F(-42825)])==nil then return end local p=os[F(-42717)]()if p-S[F(-42764)][F(-42692)]<3 then return end S[F(-42764)][F(-42692)]=p local w=k()local Q=d(w)if Q==S[F(-42764)][F(-42715)]then return end S[F(-42764)][F(-42715)]=Q M(false)H(w)end local function B()local j=w:FindFirstChild(F(-42829))and w[F(-42829)]:FindFirstChild(q[F(-42853)])if not j then task[F(-42818)](5)B()return end S[F(-42764)][F(-42830)]=d(z())j[F(-42836)]:Connect(function(j)task[F(-42818)](1)Z()if j:IsA(F(-42711))then(j:GetPropertyChangedSignal(F(-42858))):Connect(function()task[F(-42818)](.5)Z()end)end end)j[F(-42831)]:Connect(function()task[F(-42818)](1)Z()end)for j,p in ipairs(j:GetChildren())do if p:IsA(F(-42711))then(p:GetPropertyChangedSignal(F(-42858))):Connect(function()task[F(-42818)](.5)Z()end)end end end task[F(-42669)](B)task[F(-42669)](function()while true do task[F(-42818)](3)V()end end)task[F(-42669)](function()while true do task[F(-42818)](5)u()end end)task[F(-42669)](function()if not game:IsLoaded()then game[F(-42725)]:Wait()end N()Y()e()local j=z()S[F(-42764)][F(-42830)]=d(j)l(j)local p=m()S[F(-42764)][F(-42722)]=d(p)x(p)local w=k()S[F(-42764)][F(-42715)]=d(w)H(w)end)K:SelectTab(1)p:LoadAutoloadConfig()end)(...)
+-- ==========================================================
+-- LAYER 0: IMPORT LIB
+-- ==========================================================
+
+local Library = loadstring(game:HttpGet("https://github.com/lamduck2005/Fluent-Renewed-Plus/releases/download/v0.1/Fluent.luau"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/lamduck2005/Fluent-Renewed-Plus/main/Addons/SaveManager.luau"))()
+
+-- ==========================================================
+-- LAYER 1: DATA & STATE
+-- ==========================================================
+
+local RS = game:GetService("ReplicatedStorage")
+local HttpService = game:GetService("HttpService")
+local Player = game.Players.LocalPlayer
+
+local State = {
+    Data = {
+        GearItems = {},
+        EggItems = {},
+        BeeMerchantItems = {},
+    },
+    Cache = {
+        LastGearKey = "",
+        LastEggKey = "",
+        LastBeeMerchantKey = "",
+        GearCooldown = 0,
+        EggCooldown = 0,
+        BeeMerchantCooldown = 0,
+    },
+}
+
+-- ==========================================================
+-- LAYER 2: REGISTRY LOADERS
+-- ==========================================================
+
+local function LoadGearRegistry()
+    local ok, mod = pcall(function()
+        return require(RS:WaitForChild("Shared", 5):WaitForChild("Registry", 5):WaitForChild("Gear", 5))
+    end)
+    if ok and type(mod) == "table" and type(mod[2]) == "table" then
+        for name, data in pairs(mod[2]) do
+            State.Data.GearItems[name] = {
+                Cost = data.Cost,
+                MaxStock = data.MaxStock,
+                DisplayName = data.DisplayName,
+                Chance = data.Chance,
+            }
+        end
+    end
+end
+
+local function LoadEggConfig()
+    local ok, mod = pcall(function()
+        return require(RS:WaitForChild("Shared", 5):WaitForChild("EggConfig", 5))
+    end)
+    if ok and type(mod) == "table" and mod.Prices then
+        for k, v in pairs(mod.Prices) do
+            State.Data.EggItems[k] = {
+                Price = tonumber(v) or 0,
+                RestockChance = mod.RestockChances and mod.RestockChances[k] or 0,
+            }
+        end
+    end
+end
+
+local function LoadBeeMerchantItems()
+    local ok, mod = pcall(function()
+        return require(RS:WaitForChild("Shared", 5):WaitForChild("BeeHiveEventConfig", 5))
+    end)
+    if ok and type(mod) == "table" and mod.Merchant and mod.Merchant.Items then
+        for _, item in ipairs(mod.Merchant.Items) do
+            State.Data.BeeMerchantItems[item.Id] = {
+                DisplayName = item.DisplayName or item.Id,
+                HoneyCost = item.HoneyCost or 0,
+                Stock = item.Stock or 0,
+            }
+        end
+    end
+end
+
+-- ==========================================================
+-- LAYER 3: UTILITY FUNCTIONS
+-- ==========================================================
+
+local Suffixes = {"", "K", "M", "B", "T", "QA", "QI", "SX", "SP", "OC", "NO", "DE"}
+local function FormatMoney(n)
+    if not n or n == 0 then return "?" end
+    local exp = math.floor(math.log10(math.abs(n)) / 3)
+    if exp < 1 then return "$" .. tostring(math.floor(n)) end
+    local suffix = Suffixes[math.min(exp + 1, #Suffixes)] or "??"
+    local divisor = 10 ^ (exp * 3)
+    local val = n / divisor
+    local fmt = (val == math.floor(val)) and "$%.0f%s" or "$%.2f%s"
+    return string.format(fmt, val, suffix)
+end
+
+local EMBED_COLOR = tonumber("57F287", 16)
+
+local function BuildEmbed(data)
+    return {{
+        color = data.color or EMBED_COLOR,
+        title = data.title,
+        description = data.description,
+        footer = { text = "BARF Monitor | " .. os.date("%H:%M:%S") },
+        timestamp = DateTime.now():ToIsoDate(),
+    }}
+end
+
+local function SendWebhook(url, embeds)
+    if not url or url == "" then return false end
+    local data = HttpService:JSONEncode({ embeds = embeds })
+    local headers = { ["Content-Type"] = "application/json" }
+    local requestFunc = (syn and syn.request) or http_request or request
+    if requestFunc then
+        local ok = pcall(requestFunc, { Url = url, Method = "POST", Headers = headers, Body = data })
+        if ok then return true end
+    end
+    local ok = pcall(HttpService.PostAsync, HttpService, url, data, "application/json", false)
+    return ok
+end
+
+-- ==========================================================
+-- LAYER 4: DATA FETCHERS
+-- ==========================================================
+
+local BeeRep = nil
+pcall(function()
+    local dr = require(RS:WaitForChild("Packages", 5):WaitForChild("DataReplicator", 5))
+    BeeRep = dr.GetReplicator()
+end)
+
+local function FetchGearData()
+    local folder = RS:FindFirstChild("GearStocks") and RS.GearStocks:FindFirstChild(Player.Name)
+    if not folder then
+        return {
+            title = "Gear Restock!",
+            color = EMBED_COLOR,
+            description = "No gear data",
+            _plain = "No gear data",
+        }
+    end
+    local descParts = {}
+    local plainParts = {}
+    for name, info in pairs(State.Data.GearItems) do
+        local stock = folder:FindFirstChild(name)
+        local s = stock and stock.Value or 0
+        if s > 0 then
+            local displayName = info.DisplayName or name
+            local priceStr = FormatMoney(info.Cost)
+            table.insert(descParts, string.format("` %sx ` **%s** — %s", s, displayName, priceStr))
+            table.insert(plainParts, string.format("%dx %s (%s)", s, displayName, priceStr))
+        end
+    end
+    table.sort(descParts)
+    table.sort(plainParts)
+    local description = #descParts > 0 and table.concat(descParts, "\n") or "No gear in stock"
+    local plain = #plainParts > 0 and table.concat(plainParts, "\n") or "No gear in stock"
+    return {
+        title = "Gear Restock!",
+        color = EMBED_COLOR,
+        description = description,
+        _plain = plain,
+    }
+end
+
+local function FetchEggData()
+    local petMerchant = workspace:FindFirstChild("PetMerchant")
+    if not petMerchant then
+        return {
+            title = "Egg Restock!",
+            color = EMBED_COLOR,
+            description = "No egg shop found",
+            _plain = "No egg shop found",
+        }
+    end
+    local descParts = {}
+    local plainParts = {}
+    for slot = 1, 5 do
+        local podium = petMerchant:FindFirstChild("Podium" .. slot .. "Stock") or petMerchant:FindFirstChild("Podium" .. slot)
+        if podium then
+            local label = podium:FindFirstChild("EggLabel", true)
+            if label and label.Text and label.Text ~= "" then
+                local raw = label.Text
+                local matched = raw
+                for realName in pairs(State.Data.EggItems) do
+                    local safeRaw = string.gsub(string.lower(raw), " ", "")
+                    local safeReal = string.gsub(string.lower(realName), " ", "")
+                    if string.find(safeRaw, safeReal, 1, true) then
+                        matched = realName
+                        break
+                    end
+                end
+                local price = (State.Data.EggItems[matched] and State.Data.EggItems[matched].Price) or 0
+                local priceStr = FormatMoney(price)
+                table.insert(descParts, string.format("` Slot %d ` **%s** — %s", slot, matched, priceStr))
+                table.insert(plainParts, string.format("Slot %d: %s (%s)", slot, matched, priceStr))
+            end
+        end
+    end
+    local description = #descParts > 0 and table.concat(descParts, "\n") or "No eggs available"
+    local plain = #plainParts > 0 and table.concat(plainParts, "\n") or "No eggs available"
+    return {
+        title = "Egg Restock!",
+        color = EMBED_COLOR,
+        description = description,
+        _plain = plain,
+    }
+end
+
+local function FetchBeeMerchantData()
+    local snap = BeeRep and BeeRep:GetSnapshot()
+    local stock = (snap and snap.BeeHiveEvent and snap.BeeHiveEvent.MerchantStock) or {}
+    local descParts = {}
+    local plainParts = {}
+    for id, info in pairs(State.Data.BeeMerchantItems) do
+        local s = stock[id]
+        if s == nil then s = info.Stock end
+        if s > 0 then
+            local displayName = info.DisplayName or id
+            local honeyCost = info.HoneyCost
+            local costStr = honeyCost >= 1000 and string.format("%.0fK", honeyCost / 1000) or tostring(honeyCost)
+            table.insert(descParts, string.format("` %sx ` **%s** — 🍯 %s", s, displayName, costStr))
+            table.insert(plainParts, string.format("%dx %s (🍯 %s)", s, displayName, costStr))
+        end
+    end
+    table.sort(descParts)
+    table.sort(plainParts)
+    local description = #descParts > 0 and table.concat(descParts, "\n") or "No bee merchant items in stock"
+    local plain = #plainParts > 0 and table.concat(plainParts, "\n") or "No bee merchant items in stock"
+    return {
+        title = "Bee Merchant Restock!",
+        color = EMBED_COLOR,
+        description = description,
+        _plain = plain,
+    }
+end
+
+-- ==========================================================
+-- LAYER 5: BUILD UI
+-- ==========================================================
+
+local Window = Library:Window{
+    Title = "BARF Stock",
+    SubTitle = "[Lamduck]",
+    TabWidth = 140,
+    Size = UDim2.fromOffset(580, 400),
+    Acrylic = false,
+    Transparency = false,
+    Theme = "Vynixu",
+    MinimizeKey = Enum.KeyCode.RightControl,
+    MinimizeButton = true,
+    MinimizeButtonIcon = "bone",
+}
+
+local Tabs = {
+    Gear = Window:Tab{ Title = "Gear Watch", Icon = "shopping-cart" },
+    Egg = Window:Tab{ Title = "Egg Watch", Icon = "egg" },
+    BeeMerchant = Window:Tab{ Title = "Bee Merchant", Icon = "hexagon" },
+    Settings = Window:Tab{ Title = "Settings", Icon = "settings" },
+}
+
+local function SendGearSnapshot(manual)
+    local data = FetchGearData()
+    local url = Library.Options.GearWebhookURL.Value
+    if url ~= "" then
+        SendWebhook(url, BuildEmbed(data))
+    end
+    if manual then
+        Library:Notify({ Title = "Gear", Content = "Snapshot sent!", Duration = 5 })
+    end
+end
+
+local function SendEggSnapshot(manual)
+    local data = FetchEggData()
+    local url = Library.Options.EggWebhookURL.Value
+    if url ~= "" then
+        SendWebhook(url, BuildEmbed(data))
+    end
+    if manual then
+        Library:Notify({ Title = "Egg", Content = "Snapshot sent!", Duration = 5 })
+    end
+end
+
+local function SendBeeMerchantSnapshot(manual)
+    local data = FetchBeeMerchantData()
+    local url = Library.Options.BeeMerchantWebhookURL.Value
+    if url ~= "" then
+        SendWebhook(url, BuildEmbed(data))
+    end
+    if manual then
+        Library:Notify({ Title = "Bee Merchant", Content = "Snapshot sent!", Duration = 5 })
+    end
+end
+
+Tabs.Gear:Input("GearWebhookURL", {
+    Title = "Gear Webhook URL",
+    Placeholder = "https://discord.com/api/webhooks/...",
+    Default = "",
+})
+Tabs.Gear:Toggle("EnableGearWatch", {
+    Title = "Enable Gear Watch",
+    Default = true,
+})
+Tabs.Gear:Button({
+    Title = "Send Current Gear Stock",
+    Callback = function()
+        if Library.Options.GearWebhookURL.Value == "" then
+            Library:Notify({ Title = "Error", Content = "No gear webhook URL set", Duration = 5 })
+            return
+        end
+        SendGearSnapshot(true)
+    end,
+})
+Tabs.Gear:Paragraph("GearLog", {
+    Title = "Gear Status",
+    Content = "Waiting for gear data...",
+})
+
+Tabs.Egg:Input("EggWebhookURL", {
+    Title = "Egg Webhook URL",
+    Placeholder = "https://discord.com/api/webhooks/...",
+    Default = "",
+})
+Tabs.Egg:Toggle("EnableEggWatch", {
+    Title = "Enable Egg Watch",
+    Default = true,
+})
+Tabs.Egg:Button({
+    Title = "Send Current Egg Stock",
+    Callback = function()
+        if Library.Options.EggWebhookURL.Value == "" then
+            Library:Notify({ Title = "Error", Content = "No egg webhook URL set", Duration = 5 })
+            return
+        end
+        SendEggSnapshot(true)
+    end,
+})
+Tabs.Egg:Paragraph("EggLog", {
+    Title = "Egg Status",
+    Content = "Waiting for egg data...",
+})
+
+Tabs.BeeMerchant:Input("BeeMerchantWebhookURL", {
+    Title = "Bee Merchant Webhook URL",
+    Placeholder = "https://discord.com/api/webhooks/...",
+    Default = "",
+})
+Tabs.BeeMerchant:Toggle("EnableBeeMerchantWatch", {
+    Title = "Enable Bee Merchant Watch",
+    Default = true,
+})
+Tabs.BeeMerchant:Button({
+    Title = "Send Current Bee Merchant Stock",
+    Callback = function()
+        if Library.Options.BeeMerchantWebhookURL.Value == "" then
+            Library:Notify({ Title = "Error", Content = "No bee merchant webhook URL set", Duration = 5 })
+            return
+        end
+        SendBeeMerchantSnapshot(true)
+    end,
+})
+Tabs.BeeMerchant:Paragraph("BeeMerchantLog", {
+    Title = "Bee Merchant Status",
+    Content = "Waiting for bee merchant data...",
+})
+
+SaveManager:SetLibrary(Library)
+SaveManager:BuildConfigSection(Tabs.Settings)
+
+-- ==========================================================
+-- LAYER 6: MONITORING
+-- ==========================================================
+
+local function UpdateGearUI(data)
+    local text = string.format("Gear Restock (%s)\n%s", os.date("%H:%M:%S"), data._plain)
+    local nrt = RS:FindFirstChild("GearStocks") and RS.GearStocks:FindFirstChild(Player.Name) and RS.GearStocks[Player.Name]:FindFirstChild("NextRestockTime")
+    if nrt and nrt.Value > 0 then
+        local left = math.max(0, nrt.Value - workspace:GetServerTimeNow())
+        local mins = math.floor(left / 60)
+        local secs = math.floor(left % 60)
+        text = text .. string.format("\nNext Restock In: %dm %ds", mins, secs)
+    end
+    Library.Options.GearLog:SetValue(text)
+end
+
+local function UpdateEggUI(data)
+    local now = workspace:GetServerTimeNow()
+    local left = math.max(0, now - now % 300 + 300 - now)
+    local mins = math.floor(left / 60)
+    local secs = math.floor(left % 60)
+    local text = string.format("Egg Restock (%s)\n%s\nNext Restock In: %dm %ds", os.date("%H:%M:%S"), data._plain, mins, secs)
+    Library.Options.EggLog:SetValue(text)
+end
+
+local function UpdateBeeMerchantUI(data)
+    local text = string.format("Bee Merchant Restock (%s)\n%s", os.date("%H:%M:%S"), data._plain)
+    if next(State.Data.BeeMerchantItems) ~= nil then
+        local now = workspace:GetServerTimeNow()
+        local left = math.max(0, now - now % 3600 + 3600 - now)
+        local mins = math.floor(left / 60)
+        local secs = math.floor(left % 60)
+        text = text .. string.format("\nNext Restock In: %dm %ds", mins, secs)
+    end
+    Library.Options.BeeMerchantLog:SetValue(text)
+end
+
+local function DataToKey(data)
+    return data._plain
+end
+
+local function OnGearChange()
+    if not Library.Options.EnableGearWatch.Value then return end
+    if next(State.Data.GearItems) == nil then return end
+    local now = os.clock()
+    if now - State.Cache.GearCooldown < 3 then return end
+    State.Cache.GearCooldown = now
+    local data = FetchGearData()
+    local key = DataToKey(data)
+    if key == State.Cache.LastGearKey then return end
+    State.Cache.LastGearKey = key
+    SendGearSnapshot(false)
+    UpdateGearUI(data)
+end
+
+local function OnEggChange()
+    if not Library.Options.EnableEggWatch.Value then return end
+    if next(State.Data.EggItems) == nil then return end
+    local now = os.clock()
+    if now - State.Cache.EggCooldown < 3 then return end
+    State.Cache.EggCooldown = now
+    local data = FetchEggData()
+    local key = DataToKey(data)
+    if key == State.Cache.LastEggKey then return end
+    State.Cache.LastEggKey = key
+    SendEggSnapshot(false)
+    UpdateEggUI(data)
+end
+
+local function OnBeeMerchantChange()
+    if not Library.Options.EnableBeeMerchantWatch.Value then return end
+    if next(State.Data.BeeMerchantItems) == nil then return end
+    local now = os.clock()
+    if now - State.Cache.BeeMerchantCooldown < 3 then return end
+    State.Cache.BeeMerchantCooldown = now
+    local data = FetchBeeMerchantData()
+    local key = DataToKey(data)
+    if key == State.Cache.LastBeeMerchantKey then return end
+    State.Cache.LastBeeMerchantKey = key
+    SendBeeMerchantSnapshot(false)
+    UpdateBeeMerchantUI(data)
+end
+
+local function SetupGearWatcher()
+    local folder = RS:FindFirstChild("GearStocks") and RS.GearStocks:FindFirstChild(Player.Name)
+    if not folder then
+        task.wait(5)
+        SetupGearWatcher()
+        return
+    end
+    State.Cache.LastGearKey = DataToKey(FetchGearData())
+    folder.ChildAdded:Connect(function(child)
+        task.wait(1)
+        OnGearChange()
+        if child:IsA("IntValue") then
+            child:GetPropertyChangedSignal("Value"):Connect(function()
+                task.wait(0.5)
+                OnGearChange()
+            end)
+        end
+    end)
+    folder.ChildRemoved:Connect(function()
+        task.wait(1)
+        OnGearChange()
+    end)
+    for _, child in ipairs(folder:GetChildren()) do
+        if child:IsA("IntValue") then
+            child:GetPropertyChangedSignal("Value"):Connect(function()
+                task.wait(0.5)
+                OnGearChange()
+            end)
+        end
+    end
+end
+
+task.spawn(SetupGearWatcher)
+
+task.spawn(function()
+    while true do
+        task.wait(3)
+        OnEggChange()
+    end
+end)
+
+task.spawn(function()
+    while true do
+        task.wait(5)
+        OnBeeMerchantChange()
+    end
+end)
+
+-- ==========================================================
+-- LAYER 7: BOOTSTRAP
+-- ==========================================================
+
+task.spawn(function()
+    if not game:IsLoaded() then
+        game.Loaded:Wait()
+    end
+    LoadGearRegistry()
+    LoadEggConfig()
+    LoadBeeMerchantItems()
+    local gearData = FetchGearData()
+    State.Cache.LastGearKey = DataToKey(gearData)
+    UpdateGearUI(gearData)
+    local eggData = FetchEggData()
+    State.Cache.LastEggKey = DataToKey(eggData)
+    UpdateEggUI(eggData)
+    local beeData = FetchBeeMerchantData()
+    State.Cache.LastBeeMerchantKey = DataToKey(beeData)
+    UpdateBeeMerchantUI(beeData)
+end)
+
+Window:SelectTab(1)
+
+SaveManager:LoadAutoloadConfig()
